@@ -10,11 +10,11 @@
 
 The following are curated examples of my work, demonstrating my ability to solve complex technical challenges and deliver measurable results.
 
-| Case Study | Key Metric & Business Impact | Architecture & Tech Stack |
+| Case Study | Key Metric & Business Impact | Technologies Used |
 |---|---|---|
-| **[Real-Time Serverless Data Pipeline &rarr;](https://github.com/eman-cickusic/Real-Time-Serverless-Data-Pipeline-on-Google-Cloud)** | **`>60%` Reduction in Query Costs** <br/> Achieved via BigQuery optimization, saving projected thousands in annual operational spend. Processed `1,000+` events/sec with `<2s` end-to-end latency. | **[View Architecture &rarr;](link-to-diagram)** <br/> `GCP` `Terraform` `Pub/Sub` `Cloud Functions` `BigQuery` |
-| **[End-to-End DevSecOps Pipeline &rarr;](https://github.com/eman-cickusic/Secure-Software-Delivery)** | **`100%` Automated CVE Blocking** <br/> Created a zero-trust pipeline that cryptographically signs and validates all container images, automatically preventing vulnerabilities from reaching production. | **[View Architecture &rarr;](link-to-diagram)** <br/> `Cloud Build` `Binary Authorization` `Artifact Registry` `KMS` |
-| **[Zero-Touch GCP CI/CD Framework &rarr;](https://github.com/eman-cickusic/gcp-cicd-demo)** | **`-85%` Reduction in Deployment Time** <br/> Reduced manual deployment processes from over 30 minutes to a fully automated average of `4m 15s`, increasing developer velocity and eliminating configuration drift. | **[View Architecture &rarr;](link-to-diagram)** <br/> `GitHub Actions` `Terraform` `Cloud Run` `Docker` `Shell` |
+| **[Real-Time Serverless Data Pipeline &rarr;](https://github.com/eman-cickusic/Real-Time-Serverless-Data-Pipeline-on-Google-Cloud)** | **`>60%` Reduction in Query Costs** <br/> Achieved via BigQuery optimization, saving projected thousands in annual operational spend. Processed `1,000+` events/sec with `<2s` end-to-end latency. | `GCP` `Terraform` `Pub/Sub` `Cloud Functions` `BigQuery` |
+| **[End-to-End DevSecOps Pipeline &rarr;](https://github.com/eman-cickusic/Secure-Software-Delivery)** | **`100%` Automated CVE Blocking** <br/> Created a zero-trust pipeline that cryptographically signs and validates all container images, automatically preventing vulnerabilities from reaching production. | `Cloud Build` `Binary Authorization` `Artifact Registry` `KMS` |
+| **[Zero-Touch GCP CI/CD Framework &rarr;](https://github.com/eman-cickusic/gcp-cicd-demo)** | **`-85%` Reduction in Deployment Time** <br/> Reduced manual deployment processes from over 30 minutes to a fully automated average of `4m 15s`, increasing developer velocity and eliminating configuration drift. | `GitHub Actions` `Terraform` `Cloud Run` `Docker` `Shell` |
 
 ---
 
@@ -32,7 +32,7 @@ The following are curated examples of my work, demonstrating my ability to solve
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eman-cickusic/eman-cickusic/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eman-cickusic/eman-cickusic/output/github-snake.svg">
+    <source media="(pre-fers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eman-cickusic/eman-cickusic/output/github-snake.svg">
     <img alt="github snake animation" src="https://raw.githubusercontent.com/eman-cickusic/eman-cickusic/output/github-snake.svg">
   </picture>
 </div>
