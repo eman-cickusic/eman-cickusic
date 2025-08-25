@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate Custom Snake Animation
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs twice a day
+    - cron: '0 */12 * * *' # Runs twice a day to keep it fresh
   workflow_dispatch:
 
 jobs:
@@ -15,10 +15,12 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          
+          # These are the important customization lines
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg?color_snake=#0071e3&color_dots=#d2d2d7,#545458,#8dbdff,#0071e3
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#0071e3&color_dots=#d2d2d7,#545458,#8dbdff,#0071e3
+            dist/professional-snake.gif?font_size=18&color_snake=#0071e3&color_dots=#d2d2d7,#545458,#8dbdff,#0071e3&color_bg=#f5f5f7
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
