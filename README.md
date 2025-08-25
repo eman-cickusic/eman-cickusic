@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Engineering Case Studies: From Problem to Production
+### Engineering Case Studies: From Problem to Production
 
 The following are curated examples of my work, demonstrating my ability to solve complex technical challenges and deliver measurable results.
 
@@ -18,7 +18,7 @@ The following are curated examples of my work, demonstrating my ability to solve
 
 ---
 
-### 🛠️ Core Technical Competencies
+### Core Technical Competencies
 
 | **Cloud & Infrastructure (GCP)** | **Automation & IaC** | **Data & Programming** | **Security & Networking** |
 |---|---|---|---|
