@@ -1,4 +1,4 @@
-# Eman Čičkušić | Principal Cloud & Data Engineer
+# Eman Čičkušić | Cloud & Data Engineer
 
 **Mission: To build and automate production-grade, zero-trust cloud infrastructure that is secure, scalable, and cost-efficient by default. I specialize in GCP, Infrastructure-as-Code with Terraform, and event-driven serverless architectures.**
 
