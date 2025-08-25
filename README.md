@@ -2,7 +2,7 @@
 
 **Mission: To build and automate production-grade, zero-trust cloud infrastructure that is secure, scalable, and cost-efficient by default. I specialize in GCP, Infrastructure-as-Code with Terraform, and event-driven serverless architectures.**
 
-[My Portfolio Website](https://emancickusic.com/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/eman-cickusic/) &nbsp;&middot;&nbsp; [Technical Blog](https://your-blog-url.com/)
+[My Portfolio Website](https://emancickusic.com/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/eman-cickusic/) &nbsp;&middot;&nbsp; 
 
 ---
 
