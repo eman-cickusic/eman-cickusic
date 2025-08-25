@@ -1,6 +1,6 @@
 # Eman Čičkušić | Cloud & Data Engineer
 
-**Mission: To build and automate production-grade, zero-trust cloud infrastructure that is secure, scalable, and cost-efficient by default. I specialize in GCP, Infrastructure-as-Code with Terraform, and event-driven serverless architectures.**
+**Mission: To build and automate production-grade, zero-trust cloud infrastructure that is secure, scalable, and cost-efficient by default. I specialize in GCP, Infrastructure-as-Code with Terraform, and serverless architectures.**
 
 [emancickusic.com](https://emancickusic.com/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/eman-cickusic/) 
 
